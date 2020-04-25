@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Custom Kernel By Qwerty .
+kernel.string=Custom Miku Kernel by Hatsune71 Based on Qwerty and ProjektEva Kernel.
 do.devicecheck=0
 do.modules=0
 do.systemless=0
