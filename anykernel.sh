@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Custom Miku Kernel by Hatsune71 Based on ProjektEva Kernel.
+kernel.string=Mikasa-Reborn-⚔️ @hats721 Telegram
 do.devicecheck=0
 do.modules=0
 do.systemless=0
